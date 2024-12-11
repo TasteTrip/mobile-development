@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegisterActivity"
+    android:background="@drawable/gradientbackground">
+
+    <ImageView
+        android:id="@+id/R_img_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="30dp"
+        android:src="@drawable/tastetrip"
+        android:layout_alignParentTop="true"
+        android:contentDescription="@string/R_image_description"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_marginTop="120dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/R_img_1"
+        android:text="@string/welcome"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/karmabold"
+        android:textSize="32sp"
+        android:textColor="@color/black"
+        android:id="@+id/R_txt_1"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/R_txt_1"
+        android:text="@string/txt"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/karmabold"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:id="@+id/R_txt_2"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@id/R_txt_2"
+        android:padding="10dp"
+        android:gravity="center"
+        android:id="@+id/ly_1">
+
+        <EditText
+            android:id="@+id/edt_name"
+            android:layout_width="350dp"
+            android:layout_height="57dp"
+            android:autofillHints="name"
+            android:background="@drawable/button_shape"
+            android:fontFamily="@font/karmamedium"
+            android:gravity="center"
+            android:hint="@string/hint_txt1"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:layout_width="350dp"
+            android:layout_height="57dp"
+            android:background="@drawable/button_shape"
+            android:layout_marginTop="15dp"
+            android:hint="@string/hint_txt2"
+            android:gravity="center"
+            android:fontFamily="@font/karmamedium"
+            android:id="@+id/edt_email"
+            android:autofillHints="emailAddress"
+            android:inputType="textEmailAddress" />
+
+
+        <EditText
+            android:layout_width="350dp"
+            android:layout_height="57dp"
+            android:background="@drawable/button_shape"
+            android:layout_marginTop="15dp"
+            android:hint="@string/hint_txt3"
+            android:gravity="center"
+            android:fontFamily="@font/karmamedium"
+            android:id="@+id/edt_pass"
+            android:autofillHints="password"
+            android:inputType="textPassword" />
+
+        <EditText
+            android:layout_width="350dp"
+            android:layout_height="57dp"
+            android:background="@drawable/button_shape"
+            android:layout_marginTop="15dp"
+            android:hint="@string/hint_txt4"
+            android:gravity="center"
+            android:fontFamily="@font/karmamedium"
+            android:id="@+id/edt_cpass"
+            android:autofillHints="password"
+            android:inputType="textPassword" />
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/R_btn_1"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content"
+        android:text="@string/register1"
+        android:textColor="@color/black"
+        android:fontFamily="@font/karmabold"
+        android:textSize="18sp"
+        android:layout_below="@id/ly_1"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/button_shape"
+        android:width="300dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/R_btn_1"
+        android:gravity="center"
+        android:layout_marginTop="15dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/have_acc"
+            android:textSize="12sp"
+            android:paddingTop="1dp"
+            android:fontFamily="@font/karmasemibold"
+            />
+
+        <TextView
+            android:id="@+id/txt_signin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sign_in"
+            android:textSize="13sp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/karmabold"
+            android:padding="3dp"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>

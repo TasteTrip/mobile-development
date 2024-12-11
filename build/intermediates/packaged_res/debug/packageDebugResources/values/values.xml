@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="SecondaryColor">#5E5B41</color>
+    <color name="black">#000000</color>
+    <color name="primaryColor">#FC703C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whited">#FFFDEA</color>
+    <string name="L_hint_1">Email</string>
+    <string name="L_hint_2">Password</string>
+    <string name="L_image_description">Logo</string>
+    <string name="L_image_description2">Gambar</string>
+    <string name="L_txt1">Login</string>
+    <string name="L_txt2">Don\'t have an account?</string>
+    <string name="L_txt3">Sign Up</string>
+    <string name="M_image_button_description">Camera</string>
+    <string name="M_image_description">Logo</string>
+    <string name="M_image_description2">Gambar</string>
+    <string name="R_image_description">Logo</string>
+    <string name="app_name">TasteTrip</string>
+    <string name="deskripsi_makanan_akan_muncul_disini">The description of the food will appear here.</string>
+    <string name="guest">Guest</string>
+    <string name="hasil_prediksi">Hasil Prediksi</string>
+    <string name="have_acc">Already have an account?</string>
+    <string name="hint_txt1">Name</string>
+    <string name="hint_txt2">Email</string>
+    <string name="hint_txt3">Create Password</string>
+    <string name="hint_txt4">Confirm Password</string>
+    <string name="image_description">Logo</string>
+    <string name="image_description2">Gambar</string>
+    <string name="login">Login</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequatr</string>
+    <string name="register">Register</string>
+    <string name="register1">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="txt">Create an account to explore about our App</string>
+    <string name="welcome">Welcome!</string>
+    <style name="Theme.ProjectCapstone" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/primaryColor</item>
+        <item name="android:colorForeground">@color/SecondaryColor</item>
+        <item name="android:colorAccent">@color/black</item>
+    </style>
+</resources>

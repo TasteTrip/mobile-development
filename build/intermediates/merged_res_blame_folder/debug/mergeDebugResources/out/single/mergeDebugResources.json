@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.projectcapstone.app-debug-59:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.projectcapstone.app-main-61:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\drawable_button_shape.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\drawable\\button_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\drawable_gambar3.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\drawable\\gambar3.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.projectcapstone.app-debug-59:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.projectcapstone.app-main-61:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\font_karmasemibold.ttf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\font\\karmasemibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.projectcapstone.app-debug-59:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.projectcapstone.app-main-61:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\font_poppinsregular.ttf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\font\\poppinsregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\drawable_gradientbackground.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\drawable\\gradientbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.projectcapstone.app-debug-59:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.projectcapstone.app-main-61:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.projectcapstone.app-debug-59:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.projectcapstone.app-main-61:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.projectcapstone.app-debug-59:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.projectcapstone.app-main-61:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.projectcapstone.app-debug-59:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.projectcapstone.app-main-61:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\font_karmabold.ttf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\font\\karmabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\drawable_button_shape2.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\drawable\\button_shape2.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\font_poppinsmedium.ttf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\font\\poppinsmedium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\font_poppinssemibold.ttf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\font\\poppinssemibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\drawable_gambar1.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\drawable\\gambar1.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\font_karmalight.ttf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\font\\karmalight.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.projectcapstone.app-debug-59:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.projectcapstone.app-main-61:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.projectcapstone.app-debug-59:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.projectcapstone.app-main-61:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\drawable_tastetrip.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\drawable\\tastetrip.png"
+    },
+    {
+        "merged": "com.example.projectcapstone.app-debug-59:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.projectcapstone.app-main-61:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.projectcapstone.app-debug-59:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.projectcapstone.app-main-61:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.projectcapstone.app-debug-59:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.projectcapstone.app-main-61:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\font_poppinsbold.ttf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\font\\poppinsbold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\font_karmaregular.ttf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\font\\karmaregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\drawable_gradientbackground2.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\drawable\\gradientbackground2.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\drawable_gambar2.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\drawable\\gambar2.png"
+    },
+    {
+        "merged": "com.example.projectcapstone.app-debug-59:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.projectcapstone.app-main-61:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.projectcapstone.app-debug-59:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.projectcapstone.app-main-61:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "com.example.projectcapstone.app-debug-59:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.projectcapstone.app-main-61:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\raw_food_data.json.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\raw\\food_data.json"
+    },
+    {
+        "merged": "com.example.projectcapstone.app-debug-59:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.projectcapstone.app-main-61:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\font_karmamedium.ttf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\font\\karmamedium.ttf"
+    },
+    {
+        "merged": "com.example.projectcapstone.app-debug-59:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.projectcapstone.app-main-61:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\drawable_camera.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\drawable\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-debug-59:\\font_poppinsextra.ttf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.projectcapstone.app-main-61:\\font\\poppinsextra.ttf"
+    },
+    {
+        "merged": "com.example.projectcapstone.app-debug-59:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.projectcapstone.app-main-61:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]
