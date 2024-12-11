@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TasteTrip</string>
+
+    <!--  activity_main  -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="image_description">Logo</string>
+    <string name="image_description2">Gambar</string>
+    <string name="guest">Guest</string>
+    <!--  activity_register  -->
+    <string name="R_image_description">Logo</string>
+    <string name="register1">Register</string>
+    <string name="welcome">Welcome!</string>
+    <string name="txt">Create an account to explore about our App</string>
+    <string name="hint_txt1">Name</string>
+    <string name="hint_txt2">Email</string>
+    <string name="hint_txt3">Create Password</string>
+    <string name="hint_txt4">Confirm Password</string>
+    <string name="have_acc">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <!--  activity_login  -->
+    <string name="L_image_description">Logo</string>
+    <string name="L_image_description2">Gambar</string>
+    <string name="L_hint_1">Email</string>
+    <string name="L_hint_2">Password</string>
+    <string name="L_txt1">Login</string>
+    <string name="L_txt2">Don\'t have an account?</string>
+    <string name="L_txt3">Sign Up</string>
+    <!--  activity_menu  -->
+    <string name="M_image_description">Logo</string>
+    <string name="M_image_description2">Gambar</string>
+    <string name="M_image_button_description">Camera</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequatr</string>
+    <string name="hasil_prediksi">Hasil Prediksi</string>
+    <string name="deskripsi_makanan_akan_muncul_disini">The description of the food will appear here.</string>
+
+
+</resources>
